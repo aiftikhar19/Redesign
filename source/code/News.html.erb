@@ -1,0 +1,23 @@
+---
+title: News
+---
+
+<span id=logo><a href="../index.html">Mike Bond</a></span>
+<div class="title">
+  <h1>News</h1>
+</div>
+<%= partial "nav" %>
+
+<% data= YAML.load(File.open(File.join(File.dirname(__FILE__),'information.yaml'))) %>
+<div id="news">
+    <ul>
+        <% data["News"].each do |n| %>
+            <li> <%= n %></li>
+    
+        <%end%>
+    </ul>
+</div>
+
+
+
+

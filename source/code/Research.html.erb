@@ -1,0 +1,46 @@
+---
+title: Research
+---
+<span id=logo><a href="../index.html">Mike Bond</a></span>
+<div class="title">
+  <h1>Research</h1>
+</div>
+<%= partial "nav" %>
+
+<% data= YAML.load(File.open(File.join(File.dirname(__FILE__),'information.yaml'))) %>
+
+<div id="research_intro">
+     <% data["Rearch_prompt"].each do |n| %>
+        <p> <%= n %> </p>
+     <%end%>
+</div>
+
+
+<div class="student">
+    <h2>Current advisees:</h2>
+    
+	<ul>
+    <% data["Current_students"].each do |n| %>
+        <li> <%= n %> </li>
+	
+    <%end%>
+	</ul>
+    
+    <h2 class="tableTitle">Graduated advisees, with positions as of 2019:</h2>
+    <table>
+		<tr>
+			<th>Name</th>
+			<th>Education</th>
+			<th>Organization</th>
+		</tr>
+    		<% data["Past_students"].each do |n| %>
+			<tr>
+        		<td> <a href = <%=n["link"]%> > <%= n["name"] %> </a></td>
+			<td> <%= n["degree"] %></td>
+			<td> <%= n["current"] %></td>
+			</tr>
+    		<%end%>
+	</table>
+</div>
+
+

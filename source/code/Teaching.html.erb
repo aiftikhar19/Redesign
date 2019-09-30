@@ -1,0 +1,40 @@
+---
+title: Teaching 
+---
+
+<span id=logo><a href="../index.html">Mike Bond</a></span>
+<div class="title">
+  <h1>Teaching</h1>
+</div>
+<%= partial "nav" %>
+
+<div name="teaching">
+<a name="current"></a>
+    <h2 class="tableTitle">No teaching Autumn 2018 – Spring 2019 (on sabbatical)</h2>
+<a name="past"></a>
+<h2 class="tableTitle">Past Teaching</h2>
+<% data= YAML.load(File.open(File.join(File.dirname(__FILE__),'information.yaml'))) %>
+<ul>
+    <table style = "width:100%">
+    <tr>
+    	<th>Semester</th>
+	<th>Class</th>
+	<th>Class Description</th>
+    </tr>
+    <% data["teaching"].each do |n| %>
+         <tr>
+	     <td><%= n["time"]%></td>
+	     <td><%= n["number"]%></td> 
+             <td><% if n["link"].length()>0%>
+                <a href="<%=n["link"]%>">
+             <%end%>
+                    <%= n["name"]%> </a></td>
+        </tr>
+             
+    <%end%>
+    </table>
+</ul>
+
+
+</div>
+

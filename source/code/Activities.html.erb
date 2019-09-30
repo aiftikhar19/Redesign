@@ -1,0 +1,35 @@
+---
+title: Actitivies
+---
+
+<span id=logo><a href="../index.html">Mike Bond</a></span>
+<div class="title">
+  <h1>Activities</h1>
+</div>
+<%= partial "nav" %>
+
+<% data= YAML.load(File.open(File.join(File.dirname(__FILE__),'information.yaml'))) %>
+<div id="activities">
+    <ul>
+	<table style = "width:100%">
+	<tr>
+		<th>Position</th>
+		<th>Event</th>
+	</tr>
+        <% data["Actitivites"].each do |n| %>
+	<tr>
+        <td> <%= n["name"] %> </td>
+            <td><% if n["link"].nil? %>
+                <%= n["time"] %>  
+            <% else %>
+               <a href= "<%= n["link"] %>" > <%= n["time"] %> </a>
+            <% end %></td>
+     
+	</tr>
+        
+        <%end%>
+    	</table>
+    </ul>
+</div>
+
+

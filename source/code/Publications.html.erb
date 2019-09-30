@@ -1,0 +1,61 @@
+---
+title: Publications
+---
+
+    
+<span id=logo><a href="../index.html">Mike Bond</a></span>
+<div class="title">
+  <h1>Publications of <a href="plass.html">PLaSS</a> and Mike Bond</h1>
+</div>
+<%= partial "nav" %>
+
+<% data= YAML.load(File.open(File.join(File.dirname(__FILE__),'information.yaml'))) %>
+
+
+<div >
+    <ul>
+	
+	<h3 class="tableTitle">Recent Work Published as Technical Reports</h3>
+	<table>
+	<tr>
+		<td>Tech report(2016)</td>
+		<td><a href=http://web.cse.ohio-state.edu/~bond.213/raptor-tr.pdf>An Online Dynamic Analysis for Sound Predictive Data Race Detection</a>
+		<br>Jake Roemer and Michael D. Bond</td>
+	</tr>
+	
+	</table>
+	<h3 class="tableTitle">Refereed Publications</h3>
+	<table>
+	<tr>
+		<th>Publication</th>
+		<th>Topic</th>
+	</tr>
+	<% data["publications"].each do |n| %>
+	<tr>
+            <td> <%= n["event"] %> </td>
+	    <td><% if n["link"].length()>0%>
+                <a href="<%=n["link"]%>">
+             <%end%>
+		<%= n["page"] %></a>
+	    <br><%= n["names"] %>
+	    </td>
+	<tr>
+        <%end%>
+	</table>
+	<h3 class="tableTitle">Dissertations and Theses</h3>
+	<table>
+        <% data["dissertations"].each do |n| %>
+            <tr>
+		<td> <%= n["level"] %> </td>
+		<td><% if n["link"].length()>0%>
+                	<a href="<%=n["link"]%>">
+             		<%end%>
+		    <%= n["topic"] %></a>
+		<br><%= n["names"] %>
+		</td>
+	    </tr>
+        <%end%>
+        </table>
+    </ul>
+</div>
+

@@ -1,0 +1,55 @@
+---
+title: PLaSS
+---
+
+<span id=logo><a href="../index.html">Mike Bond</a></span>
+<div class="title">
+  <h1>PLaSS</h1>
+</div>
+<%= partial "nav" %>
+
+    <h2>Programming Languages and Software Systems <br> Research Group</h2>
+    <h3>Computer Science & Engineering Department, Ohio State University</h3>
+    We design and implement program analyses and runtime systems that make complex, concurrent software systems more reliable, scalable, and secure.
+    <hr>
+
+
+    <h2>News</h2>
+
+<% data= YAML.load(File.open(File.join(File.dirname(__FILE__),'information.yaml'))) %>
+<div id="news">
+    <ul>
+        <% data["News"].each do |n| %>
+            <li> <%= n %></li>
+    
+        <%end%>
+    </ul>
+</div>
+
+
+
+
+    <hr>
+    <h2>Members</h2>
+    <h4>Current:</h4>
+    <ul>
+    <li><a href="http://www.cse.ohio-state.edu/~mikebond/">Michael Bond</a>&nbsp; (faculty)
+    </li><li>Kaan Genç&nbsp; (PhD student)
+    </li><li>Jake Roemer&nbsp; (PhD candidate)
+    </li><li>Rui Zhang&nbsp; (PhD student)
+    </li></ul>
+    <h4>Graduated:</h4>
+    <ul>
+    <li><a href="http://www.cse.ohio-state.edu/~caoma/">Man Cao</a>&nbsp; (PhD, 2017) — Google
+    </li><li><a href="http://www.cse.ohio-state.edu/~sengupta/">Aritra Sengupta</a>&nbsp; (PhD, 2017) — Samsung Research America
+    </li><li><a href="http://users.ices.utexas.edu/~sbiswas/">Swarnendu Biswas</a>&nbsp; (PhD, 2016) — assistant professor at IIT Kanpur
+    </li><li><a href="http://zhangminjia.me/">Minjia Zhang</a>&nbsp; (PhD, 2016) — Microsoft Research
+    </li><li><a href="http://huangjip.github.io/">Jipeng Huang</a>&nbsp; (MS, 2014) — Apple
+    </li></ul>
+    <h4>Primary External Collaborators:</h4>
+    <ul>
+    <li><a href="https://engineering.purdue.edu/~milind/">Milind Kulkarni</a> (Purdue)
+    </li><li><a href="http://brandonlucia.com/">Brandon Lucia</a> (CMU)
+    </li></ul>
+    We've also collaborated with <a href="http://cs.wellesley.edu/~bpw/">Ben Wood</a> (Wellesley) and <a href="http://homes.cs.washington.edu/~djg/">Dan Grossman</a> (U Washington).
+

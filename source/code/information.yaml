@@ -1,0 +1,194 @@
+teaching:
+    - {time: "Spring 2018",number: "CSE 5349",name: "Program Analysis and Runtime Systems for Reliable, Scalable Parallelism",link: "https://piazza.com/osu/spring2018/cse5349/home"}
+    - {time: "Autumn 2017",number: "CSE 3341",name: "Principles of Programming Languages (two sections)",link: "https://piazza.com/osu/autumn2017/cse3341/home"}
+    - {time: "Autumn 2017",number: "CSE 6349",name: "Program Analyses and Systems for Reliable Parallelism",link: "https://piazza.com/osu/autumn2017/cse6349/home"}
+    - {time: "Autumn 2016",number: "CSE 3341",name: "Principles of Programming Languages (two sections)",link: ""}
+    - {time: "Autumn 2015",number: "CSE 3341",name: "Principles of Programming Languages",link: ""}
+    - {time: "Autumn 2015",number: "CSE 5349",name: "Program Analysis and Runtime Systems for Reliable, Scalable Parallelism",link: ""}
+    - {time: "Spring 2015",number: "CSE 3341",name: "Principles of Programming Languages",link: ""}
+    - {time: "Autumn 2015",number: "CSE 5349",name: "Dynamic Program Analysis and Runtime Systems for Reliable Concurrent Software",link: ""}
+    - {time: "Autumn 2014",number: "CSE 6341",name: "Foundations of Programming Languages",link: ""}
+    - {time: "Autumn 2013",number: "CSE 6341",name: "Foundations of Programming Languages",link: ""}
+    - {time: "Spring 2013",number: "CSE 3341",name: "Principles of Programming Languages",link: ""}
+    - {time: "Autumn 2012",number: "CSE 6341",name: "Foundations of Programming Languages",link: ""}
+    - {time: "Spring 2012",number: "CSE 755",name: "Programming Languages",link: ""}
+    - {time: "Autumn 2011",number: "CSE 788.07",name: "Dynamic Program Analysis and Runtime Systems for Reliable Concurrent Software",link: ""}
+    - {time: "Spring 2011",number: "CSE 888.07",name: "Algorithms and Implementation Strategies for Efficient Dynamic Analysis for Deployed Concurrent Software",link: ""}
+    - {time: "Winter 2011",number: "CSE 788.07",name: "Dynamic Program Analysis for Reliable Concurrent Software",link: ""}
+    
+    
+Awards:
+    - Outstanding Teaching Award, Department of Computer Science and Engineering, Ohio State University (2018)
+    - Lumley Research Award, College of Engineering, Ohio State University (2016)
+    - OOPSLA 2015 Distinguished Paper Award (for <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#valor">Valor</a>)    
+    - OOPSLA 2015 Distinguished Artifact Award(for the <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#valor">Valor artifact</a>)
+    - NSF CAREER Award
+    - ACM SIGPLAN Outstanding Doctoral Dissertation Award (<a href="http://www.sigplan.org/Awards/Dissertation/2008">citation</a>)
+    - Intel PhD Fellowship
+    - '"Most crazy idea" at Wild and Crazy Ideas (WACI) session at
+           <a href="https://www.cs.kent.ac.uk/~rej/ismm2008">ISMM 2008</a>'
+    - Best student presenter at <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#tpp">CGO 2004</a>
+   
+   
+   
+   
+   
+   
+Rearch_prompt:
+    -  My <a href="plass.html"><b>research group</b></a> develops program analyses and software systems that make complex, concurrent software significantly more reliable, scalable, and secure than it is today.
+    - 'General interests: programming languages, software and hardware systems, program analysis, compilers, security'
+    - <a href="Publications.html"><b>Publications</b></a>
+    - <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html">Publicly available research software</a> (see "Source code" for each paper)
+
+
+Current_students:
+    - Kaan Genç&nbsp; (PhD student)
+    - Jake Roemer&nbsp;(PhD candidate)
+    - Rui Zhang&nbsp; (PhD student)
+    
+Past_students:
+    - {name: "Man Cao", degree: "(PhD, 2017)" , current: "Google" , link: "http://www.cse.ohio-state.edu/~caoma/" }
+    - {name: "Aritra Sengupta", degree: "(PhD, 2017)" , current: "Samsung Research America" , link: "http://www.cse.ohio-state.edu/~sengupta/" }
+    - {name: "Swarnendu Biswas", degree: "(PhD, 2016)" , current: "assistant professor at IIT Kanpur" , link: "http://users.ices.utexas.edu/~sbiswas/" }
+    - {name: "Minjia Zhang", degree: "(PhD, 2016)" , current: "Microsoft Research" , link: "http://zhangminjia.me/" }
+    - {name: "Jipeng Huang", degree: "(MS, 2014)" , current: "Apple" , link: "http://huangjip.github.io/" }
+    
+    
+    
+    
+
+
+Actitivites:
+    - {name: "Program Committee", time: "ISMM 2019"}
+    - {name: "Program Committee", time: "ASPLOS 2019"}
+    - {name: "External Review Committee", time: "PLDI 2018"}
+    - {name: "External Review Committee", time: "ASPLOS 2018"}
+    - {name: "External Review Committee", time: "PACT 2017"}
+    - {name: "External Review Committee", time: "ISMM 2017"}
+    - {name: "External Review Committee", time: "ASPLOS 2017"}
+    - {name: "Artifact Evaluation Co-Chair", time: "OOPSLA 2016", link: "http://2016.splashcon.org/track/splash-2016-oopsla"}
+    - {name: "Artifact Evaluation Co-Chair", time: "OOPSLA 2017", link: "http://2017.splashcon.org/track/splash-2017-OOPSLA"}
+    - {name: "External Program Committee", time: "PLDI 2017"}
+    - {name: "External Program Committee", time: "OOPSLA 2016", link: "http://2016.splashcon.org/track/splash-2016-oopsla"}
+    - {name: "Program Committee", time: "PPoPP 2016", link: "http://conf.researchr.org/home/PPoPP-2016"}
+    - {name: "External Review Committee", time: "ASPLOS 2016",link: "http://www.sigplan.org/Conferences/ASPLOS/"}
+    - {name: "Program Committee Chair", time: "ISMM 2015",link: "http://conf.researchr.org/home/ismm-2015"}
+    - {name: "Steering Committee", time: "ISMM, 2015–2018",link: "https://www.sigplan.org/Conferences/ISMM/"}
+    - {name: "External Review Committee", time: "PLDI 2015",link: "http://conf.researchr.org/home/pldi2015"}
+    - {name: "External Review Committee", time: "PLDI 2014",link: "http://conferences.inf.ed.ac.uk/pldi2014/" }
+    - {name: "External Review Committee", time: "ISMM 2014",link: "http://ismm2014.cs.tufts.edu/"}
+    - {name: "External Review Committee", time: "PPoPP 2014",link: "https://sites.google.com/site/ppopp2014/"}
+    - {name: "Selection Committee, Student Research Competition", time: "PLDI 2013",link: "http://www.cs.wm.edu/~idillig/pldi13-src/"}
+    - {name: "Program Committee", time: "ISMM 2013",link: "http://pldi2013.ucombinator.org/"}
+    - {name: "External Review Committee", time: "ASPLOS 2013",link: "http://www.cs.rice.edu/~vs3/asplos13"}
+    - {name: "Program Committee", time: "OOPSLA 2012",link: "http://splashcon.org/2012/cfp/378"}
+    - {name: "External Review Committee", time: "ASPLOS 2012", link: "http://research.microsoft.com/en-us/um/cambridge/events/asplos_2012/"}
+    - {name: "Doctoral Symposium Committee", time: "SPLASH 2012",link: "http://splashcon.org/2011/cfp/103"}
+    - {name: "Program Committee", time: "TMC 2011", link: "http://tmc.supertriceratops.com/"}
+    - {name: "Program Committee", time: "ISMM 2011", link: "http://www.hpl.hp.com/personal/Hans_Boehm/ismm11/"}
+    - {name: "Program Committee", time: "VEE 2011",link: "http://www.cs.technion.ac.il/~erez/vee11/"}
+    - {name: "Program Committee", time: "OOPSLA 2010",link: "http://www.splashcon.org/program/oopsla-research-papers"}
+    - {name: "External Review Committee", time: "PLDI 2010",link: "http://www.cs.stanford.edu/pldi10/"}
+    - {name: "Program Committee", time: "IWMSE 2010",link: "http://www.multicore-systems.org/iwmse2010"}
+    - {name: "Review Committee", time: "ISMM 2010",link: "http://www.cs.purdue.edu/ISMM10/"}
+    - {name: "Jikes RVM Team", time: "2007–present",link: "http://www.jikesrvm.org/ProjectOrganization/"}
+    
+  
+News:
+    - Swarnendu Biswas's paper on <a href = "http://web.cse.ohio-state.edu/~mikebond/papers.html#arc"> rethinking support for region conflict exceptions</a> has been accepted to IPDPS 2019!
+    - Jake Roemer's paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#vindicator">high-coverage, unbounded predictive race detection</a> appeared at PLDI 2018!
+    - A paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#fib">instrumentation bias for efficient data race detection</a> co-authored by PLaSS members Man Cao and Mike Bond and led by Ben Wood (Wellesley College)appeared at OOPSLA 2017!
+    - Man Cao's paper on </a><a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#hybrid-relaxed-tracking-topc"> hybridizing and relaxing dependence tracking</a> has been published in a special edition of ACM Transactions on Parallel Computing (TOPC) in August 2017!
+    - Aritra Sengupta defended his dissertation and graduated in Spring 2017! He joined Samsung Research America in July.
+    - Man Cao defended his dissertation and graduated in Spring 2017! He joined Google in May.
+    - Minjia Zhang's paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#avalon">avoiding consistency exceptions under strong memory models</a> appeared at ISMM 2017!
+    - Aritra Sengupta's paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#legato">commodity HTM support for bounded region serializability</a> appeared at CGO 2017!
+    - Swarnendu Biswas's paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#racechaser-caper">lightweight data race detection for production runs</a> appeared at CC 2017!
+    - Swarnendu Biswas defended his PhD thesis succcessfully in August 2016! He's now a postdoc at UT Austin working with Keshav Pingali.
+    -  Minjia Zhang defended his PhD thesis successfully in April 2016! He's now at Microsoft Research.
+    - Swarnendu Biswas won <a href=http://www.acm.org/media-center/2016/june/src-2016-grand-finals>First Place in the Graduate Category</a> of the 2016 ACM Student Research Competition!
+    - Man Cao's paper on <a href=http://web.cse.ohio-state.edu/~mikebond/papers.html#prescient-memory>exposing weak memory model behaviors by"looking into the future"</a>appeared at ISMM 2016!
+    - Swarnendu Biswas received the CSE department's Graduate Research Award!
+    - Minjia Zhang's paper on <a href=http://web.cse.ohio-state.edu/~mikebond/papers.html#relaxed-tracking>relaxed dependence tracking for parallel runtime support</a> appeared at CC 2016!
+    - Man Cao's paper on <a href=http://web.cse.ohio-state.edu/~mikebond/papers.html#hybrid-tracking>combining pessimistic and optimistic tracking of cross-thread dependences</a> appeared at PPoPP 2016!
+    - Swarnendu Biswas's paper on <a href=http://web.cse.ohio-state.edu/~mikebond/papers.html#valor>efficient data race exceptions</a> received the OOPSLA 2015 Distinguished Paper Award!
+    - Swarnendu Biswas's artifact for <a href=http://web.cse.ohio-state.edu/~mikebond/papers.html#valor>efficient data race exceptions</a> received the OOPSLA 2015 Distinguished Artifact Award!
+    - Swarnendu Biswas won 1st place at the OOPSLA 2015 Student Research Competitionfor his ongoing work on hardware cache coherence and consistency!
+    - Minjia Zhang won 3rd place at the OOPSLA 2015 Student Research Competitionfor his ongoing work on snapshot isolation&ndash;based memory model enforcement!
+    - Aritra Sengupta's paper on <a href=http://web.cse.ohio-state.edu/~mikebond/index.html#papers>hybrid synchronization for enforcing region serializability</a> and our paper on <a href=http://web.cse.ohio-state.edu/~mikebond/papers.html#replay>efficient deterministic replay</a> appeared at PPPJ 2015!
+    - Swarnendu Biswas and Jake Roemer won 1st and 2nd place, respectively, at the <a href=http://conf.researchr.org/track/pldi2015/Student+Research+Competition> PLDI 2015 Student Research Competition</a>!
+    - Aritra Sengupta's paper on <a href=http://web.cse.ohio-state.edu/~mikebond/papers.html#enforser>enforcing region serializability of statically bounded regions</a> appeared at ASPLOS 2015!
+    -  Minjia Zhang's paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#larktm">software transactional memory</a> appeared at PPoPP 2015!
+    - Swarnendu Biswas's paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#doublechecker">efficient dynamic atomicity checking</a> appeared at PLDI 2014!
+    - <a href=http://web.cse.ohio-state.edu/~mikebond/papers.html#laminar-toplas>Laminar</a> (language and system support for decentralized information flow control) has been published in TOPLAS (November 2014)!
+    - Man Cao's paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#adaptive-sync">adaptive synchronization for efficient parallel runtime support</a> appeared at WoDet 2014!
+    - Our paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#octet">efficient dynamic analysis for parallel programs</a> appeared at OOPSLA 2013!
+    - Jipeng Huang's paper on <a href="http://web.cse.ohio-state.edu/~mikebond/papers.html#ccu">efficient context-sensitive dynamic analysis</a> appeared at OOPSLA 2013!
+    - Minjia Zhang won 2nd place at the PLDI 2013 Student Research Competition!
+    - Swarnendu Biswas, Aritra Sengupta, and Minjia Zhang's posters were selected to appear at the PLDI 2013 Student Research Competition!
+    - Swarnendu Biswas, Aritra Sengupta, and Minjia Zhang's posters were selected to appear at the PLDI 2013 Student Research Competition!
+    - I received the NSF CAREER Award!
+    -  Swarnendu Biswas's poster received an Honorable Mention in the CSE Poster Competition!
+    
+    
+    
+    
+
+publications:
+    - {event: "IPDPS 2019", page: "Rethinking Support for Region Conflict Exceptions", names: "Swarnendu Biswas, Rui Zhang, Michael D. Bond, and Brandon Lucia", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#arc"}
+    - {event: "PLDI 2018",page: "High-Coverage, Unbounded Sound Predictive Race Detection",names: "Jake Roemer, Kaan Gen&ccedil;, and Michael D. Bond", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#vindicator"}
+    - {event: "OOPSLA 2017",page: "Instrumentation Bias for Dynamic Data Race Detection",names: "Benjamin P. Wood, Man Cao, Michael D. Bond, and Dan Grossman", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#fib"}
+    - {event: "TOPC (2017)",page: "Hybridizing and Relaxing Dependence Tracking for Efficient Parallel Runtime Support",names: "Man Cao, Minjia Zhang, Aritra Sengupta, Swarnendu Biswas, and Michael D. Bond", link: "papers.html#hybrid-relaxed-tracking-topc"}
+    - {event: "ISMM 2017",page: "Avoiding Consistency Exceptions Under Strong Memory Models",names: "Minjia Zhang, Swarnendu Biswas, and Michael D. Bond", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#avalon"}
+    - {event: "CGO 2017",page: "Legato: End-to-End Bounded Region Serializability Using Commodity Hardware Transactional Memory",names: "Aritra Sengupta, Man Cao, Michael D. Bond, and Milind Kulkarni", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#legato"}
+    - {event: "CC 2017",page: "Lightweight Data Race Detection for Production Runs",names: "Swarnendu Biswas, Man Cao, Minjia Zhang, Michael D. Bond, and Benjamin P. Wood", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#racechaser-caper"}
+    - {event: "ISMM 2016",page: "Prescient Memory: Exposing Weak Memory Model Behavior by Looking into the Future",names: "Man Cao, Jake Roemer, Aritra Sengupta, and Michael D. Bond", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#prescient-memory"}
+    - {event: "CC 2016",page: "Relaxed Dependence Tracking for Parallel Runtime Support",names: "Minjia Zhang, Swarnendu Biswas, and Michael D. Bond", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#relaxed-tracking"}
+    - {event: "PPoPP 2016",page: "Drinking from Both Glasses:Combining Pessimistic and Optimistic Tracking of Cross-Thread Dependences",names: "Man Cao, Minjia Zhang, Aritra Sengupta, and Michael D. Bond", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#hybrid-tracking"}
+    - {event: "OOPSLA 2015",page: "Valor: Efficient, Software-Only Region Conflict Exceptions",names: "Swarnendu Biswas, Minjia Zhang, Michael D. Bond, and Brandon Lucia", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#valor"}
+    - {event: "PPPJ 2015",page: "Efficient Deterministic Replay of Multithreaded Executions in a Managed Language Virtual Machine",names: "Michael D. Bond, Milind Kulkarni, Man Cao, Meisam Fathi Salmi, and Jipeng Huang", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#replay"}
+    - {event: "PPPJ 2015",page: "Toward Efficient Strong Memory Model Support for the Java Platform via Hybrid Synchronization",names: "Aritra Sengupta, Man Cao, Michael D. Bond, and Milind Kulkarni", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#hybrid-enforser"}
+    - {event: "ASPLOS 2015",page: "Hybrid Static&ndash;Dynamic Analysis for Statically Bounded Region Serializability",names: "Aritra Sengupta, Swarnendu Biswas, Minjia Zhang, Michael D. Bond, and Milind Kulkarni", link: "papers.html#enforser"}
+    - {event: "PPoPP 2015",page: "Low-Overhead Software Transactional Memory with Progress Guarantees and Strong Semantics",names: "Minjia Zhang, Jipeng Huang, Man Cao, and Michael D. Bond", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#larktm"}
+    - {event: "TOPLAS (2014)&nbsp;&nbsp;",page: "Practical Fine-Grained Information Flow Control Using Laminar",names: "Donald E. Porter, Michael D. Bond, Indrajit Roy, Kathryn S. McKinley, and Emmett Witchel", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#laminar-toplas"}
+    - {event: "WoDet 2014",page: "Drinking from Both Glasses: Adaptively Combining Pessimistic and Optimistic Synchronization for Efficient Parallel Runtime Support",names: "Man Cao, Minjia Zhang, and Michael D. Bond", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#adaptive-sync"}
+    - {event: "OOPSLA 2013",page: "Octet: Capturing and Controlling Cross-Thread Dependences Efficiently",names: "Michael D. Bond, Milind Kulkarni, Man Cao, Minjia Zhang, Meisam Fathi Salmi, Swarnendu Biswas, Aritra Sengupta, and Jipeng Huang", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#octet"}
+    - {event: "OOPSLA 2013",page: "Efficient Context Sensitivity for Dynamic Analyses via Calling Context Uptrees and Customized Memory Management",names: "Jipeng Huang and Michael D. Bond", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#ccu"}
+    - {event: "PLDI 2011",page: "LeakChaser: Helping Programmers Narrow Down Causes of Memory Leaks",names: 'Guoqing "Harry" Xu, Michael D. Bond, Feng Qin, and Atanas Rountev', link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#leak-chaser"}
+    - {event: "PLDI 2011",page: "A Security Policy Oracle: Detecting Security Holes Using Multiple API Implementations",names: "Varun Srivastava, Michael D. Bond, Kathryn S. McKinley, and Vitaly Shmatikov", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#security-policy-oracle"}
+    - {event: "PLDI 2010",page: "Pacer: Proportional Detection of Data Races",names: "Michael D. Bond, Katherine E. Coons, and Kathryn S. McKinley", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#pacer"}
+    - {event: "PLDI 2010",page: "Breadcrumbs: Efficient Context Sensitivity for Dynamic Bug Detection Analyses",names: "Michael D. Bond, Graham Z. Baker, and Samuel Z. Guyer", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#breadcrumbs"}
+    - {event: "PLAS 2010",page: "Efficient, Context-Sensitive Detection of Real-World Semantic Attacks",names: "Michael D. Bond, Varun Srivastava, Kathryn S. McKinley, and Vitaly Shmatikov", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#pecan"}
+    - {event: "ASPLOS 2009",page: "Leak Pruning",names: "Michael D. Bond and Kathryn S. McKinley", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#leak-pruning"}
+    - {event: "PLDI 2009",page: "Laminar: Practical Fine-Grained Decentralized Information Flow Control",names: "Indrajit Roy, Donald E. Porter, Michael D. Bond, Kathryn S. McKinley, and Emmett Witchel", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#laminar"}
+    - {event: "OOPSLA 2008",page: "Tolerating Memory Leaks",names: "Michael D. Bond and Kathryn S. McKinley", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#melt"}
+    - {event: "OOPSLA 2007",page: "Probabilistic Calling Context",names: "MMichael D. Bond and Kathryn S. McKinley", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#pcc"}
+    - {event: "OOPSLA 2007",page: "Tracking Bad Apples: Reporting the Origin of Null and Undefined Value Errors",names: "Michael D. Bond, Nicholas Nethercote, Stephen W. Kent, Samuel Z. Guyer, and Kathryn S. McKinley", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#origin-tracking"}
+    - {event: "CC 2007",page: "Correcting the Dynamic Call Graph Using Control Flow Constraints",names: "Byeongcheol Lee, Kevin Resnick, Michael D. Bond, and Kathryn S. McKinley", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#cgc"}
+    - {event: "ASPLOS 2006",page: "Bell: Bit-Encoding Online Memory Leak Detection",names: "Michael D. Bond and Kathryn S. McKinley", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#bell"}
+    - {event: "MICRO 2005",page: "Continuous Path and Edge Profiling",names: "Michael D. Bond and Kathryn S. McKinley", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#pep"}
+    - {event: "CGO 2005",page: "Practical Path Profiling for Dynamic Optimizers",names: "Michael D. Bond and Kathryn S. McKinley", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#ppp"}
+    - {event: "CGO 2004",page: "Targeted Path Profiling: Lower Overhead Path Profiling for Staged Dynamic Optimization Systems",names: "Rahul Joshi, Michael D. Bond, and Craig Zilles", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#tpp"}
+
+
+
+
+
+dissertations:
+    - {level: "PhD dissertation (2017)", topic: "Efficient, Practical Dynamic Program Analyses for Concurrency Correctness",names: "Man Cao", link: ""}
+    - {level: "PhD dissertation (2017)", topic: "Efficient Compiler and Runtime Support for Serializability and Strong Semantics on Commodity Hardware",names: "Aritra Sengupta", link: ""}
+    - {level: "PhD dissertation (2016)", topic: "Practical Support for Strong, Serializability-Based Memory Consistency",names: "Swarnendu Biswas", link: "http://rave.ohiolink.edu/etdc/view?acc_num=osu1470957618"}
+    - {level: "PhD dissertation (2016)", topic: "Efficient Runtime Support for Reliable and Scalable Parallelism",names: "Minjia Zhang", link: "http://rave.ohiolink.edu/etdc/view?acc_num=osu1469557197"}
+    - {level: "Master's thesis (2014)", topic: "Efficient Context Sensitivity for Dynamic Analyses via Calling Context Uptrees and Customized Memory Management",names: "Jipeng Huang", link: "http://rave.ohiolink.edu/etdc/view?acc_num=osu1397231571"}
+    - {level: "PhD dissertation (2008) &nbsp;&nbsp;", topic: "Diagnosing and Tolerating Bugs in Deployed Systems",names: "Michael David Bond", link: "http://web.cse.ohio-state.edu/~mikebond/papers.html#thesis"}
+
+
+
+
+
+
+
+
+
+
+
